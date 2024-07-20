@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+}
+img{
+    width: 200px;
+    overflow-x: hidden;
+}
+button{
+    cursor:pointer ;
+    padding: 10px;
+    border: 0;
+}
+.wish-btn{
+    background: rgb(50,5,255);
+    color:whitesmoke ;
+    margin-right: 25px;
+}
+.visit-btn{
+background: rgb(210,210,3);
+}
